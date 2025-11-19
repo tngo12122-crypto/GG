@@ -1,0 +1,46 @@
+.dautrang{
+    height: auto;
+    background-color: white;
+}
+.dau{
+    height: auto;
+    background-color: aliceblue;
+}
+.dau img{
+    max-width: 100%;
+    height: auto;
+}
+.menu-item {
+    color: white !important;
+    font-weight: bold;
+    padding: 15px 30px !important;
+    font-size: 17px;
+}
+
+.menu-item:hover {
+    background: #007bff !important;
+    color: white !important;
+}
+
+.product-box {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.product-box img {
+    width: 240px;
+    height: 290px;
+    object-fit: cover;
+}
+
+.gia-cu {
+    text-decoration: line-through;
+    color: #777;
+}
+.gia-moi {
+    color: red;
+    font-size: 19px;
+    font-weight: bold;
+}
